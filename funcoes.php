@@ -142,7 +142,7 @@
     }//fim do Solicitar senha
     
     //11. Classifique uma pessoa com base na idade: criança, jovem, adulto, idoso.
-    function ClassificacaoIdade($idade){
+    function classificacaoIdade($idade){
         if($idade <= 12){
             return "é uma Criança";
         }else if ($idade <= 18){
@@ -162,5 +162,22 @@
             return "impar";
         }
     }//fim do 12.
+
+    //13. Leia dois numero e exiba o maior deles.
+    function LerDoisNumeros($num1, $num2){
+        if($num1 > $num2){
+                return "$num1 maior que o $num2";
+        }else{
+            return "$num2 é maior que o $num1";
+        }
+    }
+
+    //14. Imprima os números de 1 a 100 com para.
+    function imprimirNumeros($inicio,$fim){
+        for($i=$inicio;$i <= $fim;$i++){
+            echo "<br>".$i;
+        }
+    }
+    //15.
     
 ?>

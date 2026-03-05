@@ -16,7 +16,7 @@
         <button type="submit">Mostrar
             <?php
                 $idade     = $_POST['idade'];
-                $resultado = ClassificaoIdade($idade);
+                $resultado = classificacaoIdade($idade);
             ?>
         </button>
     </form>

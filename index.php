@@ -18,11 +18,11 @@
     <button><a href="exercicio9.php"> Exercicio 09</a></button>
     <button><a href="exercicio10.php"> Exercicio 10</a></button>
     <button><a href="exercicio11.php"> Exercicio 11</a></button>
-    <button> Exercicio 12 </button>
-    <button> Exercicio 13 </button>
-    <button> Exercicio 14 </button>
-    <button> Exercicio 15 </button>
-    <button> Exercicio 16 </button>
+    <button><a href="exercicio12.php"> Exercicio 12</a></button>
+    <button><a href="exercicio13.php"> Exercicio 13</a></button>
+    <button><a href="exercicio14.php"> Exercicio 14</a></button>
+    <button><a href="exercicio15.php"> Exercicio 15</a></button>
+    <button><a href="exercicio16.php"> Exercicio 16</a></button>
     <button> Exercicio 17 </button>
     <button> Exercicio 18 </button>
     <button> Exercicio 19 </button>
